@@ -3,7 +3,7 @@ import java.util.stream.IntStream;
 public class Main {
 
     private static final Employee[] employees = new Employee[10];
-
+// Базовая сложность
     public static void main(String[] args) {
 
         employees[0] = new Employee("Иванова Дарья Алексеевна", 1, 40000);
